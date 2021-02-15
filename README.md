@@ -8,7 +8,7 @@ Mapping File   --> Placing object properties into column \
 Config         -->  Information to find mapping files and database configuration \
 Session        -->  Bridge between Java Application and Hibernate 
 
-# Command Line:
+## Command Line:
 
 java -jdbc.drivers = oracle.jdbc.driver.OracleDriver -cp ojdbc14.jar; .MainFrame
 
